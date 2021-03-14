@@ -1,4 +1,4 @@
-# secondary tasks mapping
+# Mapping of Sources of Distraction
 
 ST_dict = {
     "Interaction": [
